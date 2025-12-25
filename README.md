@@ -29,15 +29,17 @@ I enjoy working on **backend architecture**, **REST APIs**, and **performance op
 - HTML5
 - CSS3
 - Bootstrap
+- JavaScript
+- ASP .Net MVC
 
 ### Database
 - MS SQL Server
-- Stored Procedures
-- Query Optimization
+- Postgresql
+- SSRS
 - SQL Profiler
 
 ### DevOps & Tools
-- Git & GitHub
+- Git & GitHub (CI/CD)
 - Azure DevOps (CI/CD)
 - IIS Server
 - Postman
@@ -51,32 +53,12 @@ I enjoy working on **backend architecture**, **REST APIs**, and **performance op
 **Paramatrix Technologies Pvt. Ltd.**  
 📅 Jan 2023 – Present  
 
-- Developed full-stack web applications using **ASP.NET Core & Angular**
+- Developed full-stack web applications using **ASP.NET Core & Angular** and **ASP.NET MVC & ASP.NET Framework**
 - Built secure and scalable **RESTful APIs**
 - Worked on **database design, stored procedures, and performance tuning**
 - Deployed applications on **IIS Server**
 - Implemented **CI/CD pipelines using Git & Azure DevOps**
 - Collaborated with cross-functional teams using **Jira**
-
----
-
-## 📂 Featured Projects
-
-*(Add repository links here)*
-
-- 🔹 Employee Management System (ASP.NET Core + Angular)
-- 🔹 REST API with JWT Authentication
-- 🔹 SQL Performance Optimization Project
-- 🔹 CI/CD Pipeline Demo using Azure DevOps
-
----
-
-## 📈 What I'm Currently Learning
-
-- Advanced **ASP.NET Core & Clean Architecture**
-- **Angular best practices**
-- **System Design basics**
-- **Cloud fundamentals (Azure)**
 
 ---
 
